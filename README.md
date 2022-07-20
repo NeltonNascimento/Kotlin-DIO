@@ -1,2 +1,2 @@
 # Kotlin-DIO
-Organição de estudos do curso de Kotlin
+Organização de estudos do curso de Kotlin
